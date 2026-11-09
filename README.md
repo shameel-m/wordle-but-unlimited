@@ -2,6 +2,8 @@
 
 A static, unlimited Wordle-style game.
 
+**Live Demo:** https://wordle-but-unlimited.shameelm.workers.dev/
+
 ## Files
 - `index.html` — page structure
 - `style.css` — styling
